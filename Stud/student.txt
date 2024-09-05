@@ -1,0 +1,9 @@
+solomin 2003 3.3
+tarkov 2002 3.4
+karpov 2000 2.2
+litvin 2001 3.4
+harov 2006 5.0
+petrov 2005 4.5
+ivanov 2002 5.4
+sidorov 2001 2.3
+valuev 1990 2.4

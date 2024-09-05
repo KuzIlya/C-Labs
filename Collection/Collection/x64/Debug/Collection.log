@@ -1,0 +1,2 @@
+﻿  Collection.cpp
+C:\Users\user\Desktop\C++\Collection\Collection.cpp(19,26): error C2243: приведение типов: преобразование "A<int> *" в "BaseA &&" существует, но недоступно

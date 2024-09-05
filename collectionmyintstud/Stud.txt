@@ -1,0 +1,4 @@
+Kuznetsov 2004 3.5
+Ivanov 2005 2
+Vasilyev 2006 4
+Lobanov 2001 3
